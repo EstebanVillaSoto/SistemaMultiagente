@@ -1,0 +1,9 @@
+¿Cómo restablezco mi contraseña en Windows?
+1. Abre Configuración > Cuentas.
+2. Selecciona “Opciones de inicio de sesión”.
+3. Haz clic en “Contraseña” y sigue las instrucciones.
+
+¿Cómo instalo Google Chrome?
+1. Visita https://www.google.com/chrome/
+2. Haz clic en “Descargar Chrome”.
+3. Ejecuta el instalador y sigue los pasos.

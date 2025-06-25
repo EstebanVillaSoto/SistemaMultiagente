@@ -1,0 +1,14 @@
+Lista de comandos básicos de Linux:
+
+1. ls – Listar archivos/directorios.
+   Opciones: -l (lista detallada), -a (incluir ocultos).
+
+2. cd <ruta> – Cambiar directorio.
+   Ejemplo: cd /var/log
+
+3. grep <patrón> <archivo> – Buscar texto.
+   Ejemplo: grep "error" syslog
+
+4. sudo apt update && sudo apt upgrade – Actualizar paquetes (Debian/Ubuntu).
+
+5. df -h – Mostrar uso de disco en formato legible.

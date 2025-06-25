@@ -1,0 +1,15 @@
+Título: Resolución de problemas de red en Windows
+
+– Conexión limitada o nula:
+1. Abre Símbolo del sistema (Win+R → cmd → Enter).
+2. Ejecuta: ipconfig /release
+3. Luego: ipconfig /renew
+4. Si sigue sin Internet, prueba: ping 8.8.8.8
+    • Si responde, hay DNS mal configurado.
+    • Ejecuta: ipconfig /flushdns
+5. Reinicia el router.
+
+– Red Wi-Fi no aparece:
+1. Ve a Configuración → Red e Internet → Wi-Fi.
+2. Activa “Mostrar redes disponibles”.
+3. Reinicia el adaptador: Win+X → Administrador de dispositivos → Adaptadores de red → Deshabilitar/Rehabilitar.

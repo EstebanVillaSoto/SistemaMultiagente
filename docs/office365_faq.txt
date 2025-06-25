@@ -1,0 +1,6 @@
+¿Dónde encuentro mi buzón compartido en Outlook?
+1. En Outlook de escritorio: Archivo → Configuración de la cuenta → Cuentas de correo → Abrir buzón adicional.
+2. En Outlook Web: Haz clic en tu avatar → Abrir otro buzón → Teclea el nombre.
+
+¿Cómo cambio mi firma en Outlook Web?
+1. Ajustes (rueda dentada) → Ver toda la configuración de Outlook → Correo → Componer y responder → Firma de correo.
